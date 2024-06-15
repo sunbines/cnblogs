@@ -2,7 +2,7 @@
 
 集群拓扑图：
 
-![ceph运维-001](https://ivanzz1001.github.io/records/assets/img/ceph/crushmap/crushmap-tree-1.pn)
+![图片](https://raw.githubusercontent.com/sunbines/images/refs/heads/main/2025/01/img_01.png)
 
 三台环境为centos7，以下配置需要在每台机器上执行：
 
